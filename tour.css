@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    color: rgb(28, 27, 26);
+    size:200px;
+}
+h2{
+    text-align:left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul{
+    list-style-type:none;
+    margin:5px;
+    padding:1px;
+    overflow:hidden;
+    background-color:rgb(75, 140, 56);
+}
+li{
+    float:left;
+}
+li {
+    display:inline-block;
+    color:rgb(243, 237, 237);
+    text-align:right;
+    padding:50px;
+    font-size:30px;
+}
+body{
+    background-color: rgb(236, 222, 237);
+    color: rgb(99, 39, 108);
+    background-image:url("taj mahal.jpg");
+    background-size:cover;
+    font-size: large;
+    
+}
+button{
+    background-color: rgb(221, 166, 247);
+    size:300px;
+    text-align:right;
+    color:antiquewhite;
+}
+.img
+{
+    height:50px;
+    width:50px;
+}
+div{
+    color:rgb(31, 55, 13);
+    background-color: rgb(245, 240, 233);
+    height: 300px;
+    width: 500px;
+    margin-left:300px;
+    font-size:30px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btn
+{
+    text-align:center;
+    font-size: large;
+}
+
+

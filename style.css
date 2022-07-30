@@ -1,0 +1,30 @@
+ul{
+    list-style-type:none;
+    margin:5px;
+    padding:1px;
+    overflow:hidden;
+    background-color:rgb(208, 29, 64);
+}
+li{
+    float:left;
+}
+li a{
+    display:inline-block;
+    color:rgb(229, 227, 236);
+    text-align:right;
+    padding:10px;
+    font-size:30px;
+}
+li a:hover{
+    background-color: rgb(224, 151, 153);
+}
+@media screen and(min-width:320px)and(max-width:480 px){
+body{
+    background:aqua;
+}
+}
+@media screen and(min-width:768px)and(main-width:1024px){
+    body{
+        background:plum;
+}
+}
